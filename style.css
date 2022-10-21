@@ -1,0 +1,30 @@
+img{
+    width: 400px;
+    height: 300px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(73, 73, 73);
+}
+body{
+    background-color:darkseagreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    font-style: italic;
+    color: rgb(57, 57, 57);
+    font-size: 20px;
+}
+h3{
+    font-size: 35px;
+}
+.woods{
+    background-color: rgb(140, 185, 170);
+}
+.wedges{
+    background-color: rgb(175, 223, 187);
+}
+.irons{
+    background-color: rgb(142, 189, 222);
+}
